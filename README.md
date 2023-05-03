@@ -1,5 +1,5 @@
 # dynamodb-testcontainer-example
-Simple example on how to run a aws dynamodb testcontainer with junit
+Simple example on how to run an AWS DynamoDB testcontainer with junit
 
 # How to run this example
 1. Have docker installed and running
